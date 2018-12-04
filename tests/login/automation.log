@@ -1,0 +1,36 @@
+12/04/2018 05:09:41 PM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login successfully
+12/04/2018 05:09:41 PM - ResultStatus - INFO: Test Login Successful ### TEST SUCCESSFUL
+12/04/2018 05:09:50 PM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Failed
+12/04/2018 05:09:50 PM - ResultStatus - INFO:  Test Login Failed ### TEST SUCCESSFUL
+21 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:21 PM - LoginPage - INFO: Clicked on element with locator: [class='btn btn-type-2 '] locatorType: css
+12/04/2018 05:09:26 PM - LoginPage - INFO: Element not found
+12/04/2018 05:09:26 PM - LoginPage - INFO: Cannot send data on the element with locator: [data-id='0'] locatorType: css
+12/04/2018 05:09:31 PM - LoginPage - INFO: Element not found
+12/04/2018 05:09:31 PM - LoginPage - INFO: Cannot send data on the element with locator: [data-id='1'] locatorType: css
+12/04/2018 05:09:36 PM - LoginPage - INFO: Element not found
+12/04/2018 05:09:36 PM - LoginPage - INFO: Cannot send data on the element with locator: [data-id='2'] locatorType: css
+12/04/2018 05:09:41 PM - LoginPage - INFO: Element not found
+12/04/2018 05:09:41 PM - LoginPage - INFO: Cannot send data on the element with locator: [data-id='3'] locatorType: css
+12/04/2018 05:09:41 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:41 PM - LoginPage - INFO: Element present with locator: //div[@id='root']//div[3] locatorType: xpath
+12/04/2018 05:09:41 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:41 PM - LoginPage - INFO: Cannot click on the element with locator: //div[@id='root']//div[3] locatorType: xpath
+12/04/2018 05:09:46 PM - LoginPage - INFO: Element not found
+12/04/2018 05:09:46 PM - LoginPage - INFO: Cannot click on the element with locator: .btn-logout locatorType: css
+12/04/2018 05:09:46 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:46 PM - LoginPage - INFO: Cannot click on the element with locator: .btn-login.d-lg-block locatorType: css
+12/04/2018 05:09:46 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:46 PM - LoginPage - INFO: Sent data on element with locator: .input-wrapper [type] locatorType: css
+12/04/2018 05:09:46 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:46 PM - LoginPage - INFO: Clicked on element with locator: [class='btn btn-type-2 '] locatorType: css
+12/04/2018 05:09:48 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:48 PM - LoginPage - INFO: Sent data on element with locator: [data-id='0'] locatorType: css
+12/04/2018 05:09:48 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:48 PM - LoginPage - INFO: Sent data on element with locator: [data-id='1'] locatorType: css
+12/04/2018 05:09:48 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:48 PM - LoginPage - INFO: Sent data on element with locator: [data-id='2'] locatorType: css
+12/04/2018 05:09:48 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:48 PM - LoginPage - INFO: Sent data on element with locator: [data-id='3'] locatorType: css
+12/04/2018 05:09:50 PM - LoginPage - INFO: Element Found
+12/04/2018 05:09:50 PM - LoginPage - INFO: Element present with locator: .Toastify__toast-container--top-right locatorType: css
